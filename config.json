@@ -1,0 +1,11 @@
+{
+  "dev": false,
+  "currency": { "name": "Sunny Cash", "rep": "SC$" },
+  "prefix": "s-",
+  "prefix_dev": "d-",
+  "token": "token",
+  "token_dev": "dev token (pretty sure this was not implemented much)",
+  "db": "mongo db srv link",
+  "db_dev": "development mongo db srv link",
+  "maxProducts": 25
+}
